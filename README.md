@@ -1,4 +1,4 @@
-# Multiple Nested Selectors (Angular Reactive Forms) Rest countries API : [https://restcountries.com/#endpoints-region]
+# Multiple Nested Selectors (Angular Reactive Forms)
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.2.4.
 
@@ -18,4 +18,7 @@ Run `ng build` to build the project. The build artifacts will be stored in the `
   <base href="./">
 ```
 4. In GithubPages make the deploy from /docs NOT from /root.
+
+## Api used :
+  Rest countries API : [https://restcountries.com/#endpoints-region]
 
